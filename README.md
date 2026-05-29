@@ -32,6 +32,10 @@ For ~5 years I've worked on the UK's flagship wholesale-banking blockchain progr
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white)
 
+### 🧩 Core skills
+
+**Multi-account AWS** (IRSA, EKS, ECR, KMS) · **Kubernetes & GitOps** (Argo CD, Helm, OCI charts) · **CI/CD & release engineering** · **Terraform** (pipeline-driven IaC) · **Vault, PKI & secrets** · **Software supply chain** (private-registry mirroring) · **Blockchain infrastructure** (Besu, FireFly, web3signer) · **Observability** (Prometheus, Grafana, OpenTelemetry) · **Agentic infra-ops**
+
 ### 💼 Experience
 
 | | | |
