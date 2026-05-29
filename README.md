@@ -47,4 +47,5 @@ HashiCorp **Vault** · HashiCorp **Terraform** · HashiCorp **Consul** · AWS **
 ### 📌 Selected work
 
 - **[besu-eks-reference](https://github.com/valentevidal/besu-eks-reference)** — a production-grade reference architecture for a Hyperledger Besu network on AWS EKS: Terraform + Helm with FireFly, Blockscout, web3signer, Vault PKI and OpenTelemetry.
+- **[agentic-platform-engineering](https://github.com/valentevidal/agentic-platform-engineering)** — guardrails, isolation, and orchestration patterns for running AI agents safely on production infrastructure, plus a drop-in AGENTS.md template.
 - **[ethereum-network](https://github.com/valentevidal/ethereum-network)** — Terraform to provision a private Ethereum (Geth) network on AWS, with MetaMask integration.
